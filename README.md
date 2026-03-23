@@ -91,7 +91,6 @@ sports-performance-analysis/
 ├── data/
 │   ├── FIFA22_official_data.csv
 │   ├── sports-training-dataset.csv
-│   └── cleaned_data.csv
 │
 ├── notebooks/
 │   ├── fifa22_analysis.ipynb
@@ -113,7 +112,7 @@ sports-performance-analysis/
 
 ---
 
-## 🚀 Key Outcomes
+## Key Outcomes
 
 * Performed **data cleaning and preprocessing** on real-world datasets
 * Generated **actionable insights** from sports data
@@ -122,7 +121,7 @@ sports-performance-analysis/
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Incorporate more advanced features into ML models
 * Improve model accuracy with hyperparameter tuning
@@ -131,7 +130,7 @@ sports-performance-analysis/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pearl Priyanka**
 Master’s in Computer Science
